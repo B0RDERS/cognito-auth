@@ -1,0 +1,5 @@
+pyjwt
+cryptography
+pydantic
+pydantic_settings
+fastapi[standard]
